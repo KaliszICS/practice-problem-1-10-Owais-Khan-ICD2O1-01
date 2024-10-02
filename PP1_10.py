@@ -1,5 +1,12 @@
 import math
 
+'''
+    Lesson: Math Library
+    Author: Owais Ali Khan
+    Date Created: October 2, 2024
+    Date Last Modified: October 2, 2024
+'''
+
 def q1(): 
   num = float(input("Input a number: "))
   print(math.sqrt(num))
